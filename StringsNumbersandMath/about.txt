@@ -1,0 +1,5 @@
+--Here I will post files related to chapter 1
+
+--Chapter 1 deals with solving problems dealing Strings, Numbers, and Math 
+
+--I should follow tips, and see how classical problems are solved 
