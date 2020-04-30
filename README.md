@@ -1,2 +1,2 @@
 # JavaCodingProblems
-solving java coding problems
+solving java coding problems from Java Coding Problems by Anghel Leonard 
